@@ -1,0 +1,6 @@
+numpy
+astropy
+astroquery
+flask
+pillow
+reproject
